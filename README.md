@@ -15,7 +15,7 @@ https://github.com/boostorg/test
 ************************************************************************
 
 Copyright 2001-2014, Gennadiy Rozental.  
-Copyright 2013-2015, Boost.Test team.
+Copyright 2013-2016, Boost.Test team.
 
 Distributed under the Boost Software License, Version 1.0.
 (See accompanying file LICENSE_1_0.txt or copy at www.boost.org/LICENSE_1_0.txt)
